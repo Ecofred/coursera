@@ -42,3 +42,9 @@ git commit -m "message"
 
 git push
 
+git checkout -b newBranch
+git branch
+git checkout master
+
+
+
