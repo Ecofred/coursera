@@ -1,0 +1,30 @@
+pwd
+
+clear
+
+ls
+ls -a
+
+cd /home/fred
+cd
+cd ..
+
+touch test_file
+
+cp
+cp -r
+
+rm
+rm -r
+
+mv newFile renameFile
+
+echo slkdjglgjdfs
+
+date
+
+######## Git
+
+git config --global user.name "user_name"
+
+git config --global user.mail "your.address@mail.com"
